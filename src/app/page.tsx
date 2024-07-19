@@ -131,7 +131,7 @@ export default function Page() {
   );
 }
 
-export const Style = {
+const Style = {
   Container: styled.main`
     height: 92.5%;
     width: 100%;
